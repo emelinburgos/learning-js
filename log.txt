@@ -1,0 +1,11 @@
+commit e27711c27c640df0665053b1454c59ab4e225e2b
+Author: Emelin Burgos <eburgos@enteractiva.net>
+Date:   Thu Nov 19 13:17:53 2015 -0500
+
+    adding start text file
+
+commit 9dd215fa24891272ec1126faaa743cfaba4cc785
+Author: emelinburgos <emelinburgos@gmail.com>
+Date:   Thu Nov 19 12:06:50 2015 -0500
+
+    Initial commit
